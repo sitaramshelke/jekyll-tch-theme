@@ -3,13 +3,13 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-tch-theme
-title: Your name
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
+url: http://sitaramshelke.github.io
+baseurl: ""
+title: Sitaram Shelke
+description: A good listener, and I enjoy reading about new and upcoming technologies.
+avatar: /assets/img/dp.png
 # favicon: /favicon.ico
-favicon: /assets/img/ogp.png
+favicon: /assets/img/dp.png
 # language: ja
 language: en
 
@@ -18,11 +18,11 @@ language: en
 #
 icons:
   rss: true
-  email:
-  github: ttskch
+  email: sitaramshelke@gmail.com
+  github: sitaramshelke
   bitbucket:
-  twitter: ttskch
-  facebook:
+  twitter: sitaramshelke
+  facebook: sitaram.shelke
   google_plus:
   tumblr:
   behance:
@@ -46,8 +46,8 @@ permalink: pretty
 #
 # Scripts.
 #
-google_analytics: # e.g. UA-000000-01
-disqus:
+google_analytics: UA-72761937-1
+disqus: sitaramsblog
 
 #
 # Localizations.
@@ -67,7 +67,7 @@ recent_posts_num: 10
 #
 # Pagination.
 #
-paginate: 10
+paginate: 5
 paginate_path: page/:num
 
 #
@@ -75,13 +75,13 @@ paginate_path: page/:num
 #
 share_buttons:
   twitter: true
-  facebook: false # needs ogp.fb.app_id
+  facebook: true # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-tch-theme/assets/img/ogp.png
+  image_url: //sitaramshelke.github.io/assets/img/ogp.png
   fb:
     admin: # facebook admin id
-    app_id: # facebook application id
+    app_id: 1582323458731633
 
 #
 # Gems.
